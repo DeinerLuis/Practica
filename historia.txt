@@ -1,7 +1,11 @@
 Esto es una prueba de git
 
-no tener en cuenta (2)
+muestra 1.master1
 
+<<<<<<< HEAD
 omitir por ahora
 
 prueba de cabecera
+=======
+Esto no se encuntra en la carpeta Master 
+>>>>>>> pruebam
