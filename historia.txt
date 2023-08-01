@@ -1,7 +1,3 @@
 Esto es una prueba de git
 
-no tener en cuenta (2)
-
-omitir por ahora
-
-ESTO DE DE MASTER
+muestra 1.master1
