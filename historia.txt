@@ -2,5 +2,5 @@ Esto es una prueba de git
 
 muestra 1.master1
 
-SE HA LOGRADO LA CONEXIÓN
+SE HA LOGRADO LA CONEXIÓN 2.0
  
