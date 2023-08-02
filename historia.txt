@@ -2,10 +2,4 @@ Esto es una prueba de git
 
 muestra 1.master1
 
-<<<<<<< HEAD
-omitir por ahora
-
-prueba de cabecera
-=======
-Esto no se encuntra en la carpeta Master 
->>>>>>> pruebam
+Esto no se encuntra en la carpeta Master (1)
